@@ -3,8 +3,8 @@ Predictive Beer Analytics
 
 Predictive Beer Analytics is a project that aims to 
 gather, process, and present beer data in such a way that
-the user can find out based on the desired characteristics of the beer where in the world that  
-particular beer is enjoyed. Other fun tools for beer marketing is also included such as color 
+the user can find out desired characteristics of the beer based on where in the world that  
+particular beer is enjoyed. Other fun tools for beer marketing are also included such as color 
 and word rating analyser.
 
 A live version of the web application can be found at http://jweinstein92.pythonanywhere.com/
